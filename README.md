@@ -22,3 +22,6 @@ Typing Speed Test is a web-based application that helps users measure their typi
 
 ## Project Purpose
 Developed this project to improve my frontend development skills and JavaScript knowledge.
+
+## Live Demo
+https://bala-venkata-ramana-dev.github.io/typing-speed-test/
